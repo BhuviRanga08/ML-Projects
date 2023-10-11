@@ -8,7 +8,8 @@ Supervised ML | Unsupervised ML
     <p></p>
         Welcome to My ML Project Repository 🤖<br>
         Explore my collection of projects dedicated to Machine Learning. Delve into the world of algorithms, models, and data-driven solutions. 📈🤯
-        Join me in unraveling data mysteries and building intelligent systems that learn and adapt. 🚀🧠
+        Join me in unraveling data mysteries and building intelligent systems that learn and adapt. 🚀🧠<br>
+    NOTE : Some of my projects are from my Kaggle Notebooks
     </p>
 </body>
 </html>
